@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/logic/functions/functions.h
-stdio.h
--
-../../model/list/list.h
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/model/list/list.h
-
 C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/logic/menu/menu.c
 menu.h
 C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/logic/menu/menu.h
@@ -29,20 +23,6 @@ C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/model/destina
 C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/model/list/list.h
 
 C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/logic/utils/utils.h
-
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/main.c
-stdio.h
--
-stdlib.h
--
-logic/menu/menu.h
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/logic/menu/menu.h
-logic/functions/functions.h
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/logic/functions/functions.h
-model/list/list.h
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/model/list/list.h
-model/destination/destination.h
-C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/model/destination/destination.h
 
 C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/model/destination/destination.h
 stdio.h
