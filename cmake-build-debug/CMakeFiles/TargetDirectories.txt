@@ -1,0 +1,3 @@
+C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Traveler/Documents/Cole/Trip-Organizer-master/organizador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
